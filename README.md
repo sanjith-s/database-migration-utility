@@ -55,14 +55,10 @@ run.sh
 
 ## Usage
 
-This tool has been tested with DB2 and Oracle.
-
 This tool assumes that the destination table has been created by the user and other related tables connected by foreign key constraints. Users can turn off integrity checks at the destination table while using this tool.
-
-### Creating A Pull Request
 
 
 
 ## Authors
 
-* **Sanjith S** - ** - [Sanjith S](https://github.com/sanjith-s/) - **
+* **Sanjith S** 
